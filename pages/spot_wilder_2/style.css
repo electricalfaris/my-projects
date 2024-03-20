@@ -1,0 +1,9 @@
+.img-wrapper > img{
+ width: 100%;
+ height: 30vh;
+}
+.text-center{
+ border:1px solid wheat;
+ background-color: gray;
+ font-size: 26px;
+}
